@@ -1,5 +1,11 @@
 body {
-    background: #eeeeee url("../images/bg_gray.png") no-repeat 80%;
+    background: #eeeeee url("../images/bg_gray.png") no-repeat 100%;
     margin-top: 80px;
+    font-family: Consolas;
 }
 
+.mars_logo {
+    width: 120px;
+    height: 120px;
+    filter:alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity: 0.5; opacity: 0.7;
+}
