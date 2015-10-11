@@ -1,5 +1,8 @@
 body {
-    background: #eeeeee url("../images/bg_gray.png") no-repeat 100%;
+    background: #ffffff;
+    background-image: url("../images/bg_gray.png");
+    background-repeat: no-repeat;
+    background-position: center;
     margin-top: 80px;
     font-family: Consolas;
 }
@@ -8,4 +11,28 @@ body {
     width: 120px;
     height: 120px;
     filter:alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity: 0.5; opacity: 0.7;
+}
+
+.mars_name {
+    margin-top: 40px;
+    font-family: Consolas;
+    font-size: 42px;
+    font-weight: 530;
+    color: #af5a09;
+}
+
+.navbar-cus {
+    border-color: #d58512;
+    margin-top: 20px;
+    font-size: large;
+
+}
+.navbar-text-cus {
+    color: #ffffff;
+}
+
+.navbar-text-cus>li>a {
+    color: #ffffff;
+    text-decoration: none;
+
 }
