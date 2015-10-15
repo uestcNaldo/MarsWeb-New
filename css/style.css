@@ -2,7 +2,6 @@ body {
     background: #ffffff;
     background-image: url("../images/bg_gray.png");
     background-repeat: no-repeat;
-    background-position: 50% 50%;
     margin-top: 80px;
     font-family: Consolas;
 }
@@ -22,16 +21,19 @@ body {
 }
 
 .navbar-cus {
-    border-color: #d58512;
+    border-color: #ff794d;
     margin-top: 20px;
     font-size: large;
 
 }
-.navbar-text-cus {
-    color: #ffffff;
+
+.panel-cus {
+    border-color: #ff794d;
+
 }
 
-.navbar-text-cus>li>a {
-    color: #ffffff;
+.panel-cus>.panel-heading {
+    background-color: #ff794d;
+    border-color: #ff794d;
 
 }
