@@ -1,0 +1,13 @@
+.paper-list {
+    background-color: #fbfbfb;
+}
+.paper-list>nav {
+    text-align: center;
+}
+
+.paper-item {
+
+}
+.paper-item>hr {
+    border-color: #d58512;
+}
