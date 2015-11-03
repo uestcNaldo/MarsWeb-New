@@ -1,0 +1,13 @@
+.project-list {
+    background-color: #fbfbfb;
+}
+.project-list>nav {
+    text-align: center;
+}
+
+.project-item {
+
+}
+.project-item>hr {
+    border-color: #d58512;
+}

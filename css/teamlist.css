@@ -1,0 +1,27 @@
+.team-list {
+    background-color: #fbfbfb;
+
+}
+.team-mentor {
+
+}
+
+.mentor-item>a {
+    font-family: FontAwesome;
+    font-size: x-large;
+}
+
+.doctor-item>a {
+    font-family: FontAwesome;
+    font-size: x-large;
+}
+
+.master-item>a {
+    font-family: FontAwesome;
+    font-size: x-large;
+}
+
+.undergraduate-item>a {
+    font-family: FontAwesome;
+    font-size: x-large;
+}
